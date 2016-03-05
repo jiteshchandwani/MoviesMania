@@ -1,0 +1,15 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:context="com.example.jites.moviesmania.MainActivity">
+    <item
+        android:id="@+id/pop"
+        android:orderInCategory="100"
+        android:title="@string/pop"
+        app:showAsAction="never" />
+    <item
+        android:id="@+id/rat"
+        android:orderInCategory="100"
+        android:title="@string/rat"
+        app:showAsAction="never" />
+</menu>
